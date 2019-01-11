@@ -47,7 +47,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallLife.cs" />
+     <Compile Include="Assets\Scripts\Lives.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
+     <Compile Include="Assets\Seamless Texture\Demo Scene\TextureChanger.cs" />
+     <Compile Include="Assets\Seamless Texture\Demo Scene\rotateObject.cs" />
+     <Compile Include="Assets\Seamless Texture\Demo Scene\severalPositions.cs" />
+     <Compile Include="Assets\Seamless Texture\Demo Scene\webLoad.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

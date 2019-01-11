@@ -6,8 +6,8 @@ public class Shoot : MonoBehaviour
 	public int m_PlayerNumber = 1;              // Used to identify the different players.
 	public Rigidbody dodgeBall;                   // Prefab of the shell.
 	public Transform m_FireTransform;           // A child of the tank where the shells are spawned.
-	public float m_MinLaunchForce = 30f;        // The force given to the shell if the fire button is not held.
-	public float m_MaxLaunchForce = 45f;        // The force given to the shell if the fire button is held for the max charge time.
+	public float m_MinLaunchForce = 50f;        // The force given to the shell if the fire button is not held.
+	public float m_MaxLaunchForce = 75;        // The force given to the shell if the fire button is held for the max charge time.
 	public float m_MaxChargeTime = 0.75f;       // How long the shell can charge for before it is fired at max force.
 
 	private string m_FireButton;                // The input axis that is used for launching shells.

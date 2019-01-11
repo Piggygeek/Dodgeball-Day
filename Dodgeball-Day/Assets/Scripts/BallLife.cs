@@ -15,7 +15,15 @@ public class BallLife : MonoBehaviour {
 	}
 
 	// Update is called once per frame
-	void Update () {
-
+	void Update () 
+	{
+		Destroy (gameObject, m_MaxLifeTime);
+	}
+	void OnTriggerEnter(Collider other) 
+	{
+		if (other.gameObject.CompareTag ( "Player"))
+		{
+			gameObject.SetActive (false);
+		}
 	}
 }
