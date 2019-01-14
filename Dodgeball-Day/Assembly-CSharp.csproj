@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\BallLife.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\Lives.cs" />
+     <Compile Include="Assets\Scripts\MouseMovement.cs" />
+     <Compile Include="Assets\Scripts\Movement.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Seamless Texture\Demo Scene\TextureChanger.cs" />
      <Compile Include="Assets\Seamless Texture\Demo Scene\rotateObject.cs" />
