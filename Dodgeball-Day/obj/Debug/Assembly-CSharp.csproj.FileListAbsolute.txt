@@ -60,3 +60,34 @@ C:\Users\roenkerm8887\Documents\LocalRepo\Dodgeball-Day\Dodgeball-Day\Temp\bin\D
 C:\Users\roenkerm8887\Documents\LocalRepo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.Analytics.xml
 C:\Users\roenkerm8887\Documents\LocalRepo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.HoloLens.xml
 C:\Users\roenkerm8887\Documents\LocalRepo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\obj\Debug\Assembly-CSharp.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\nunit.framework.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEditor.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEditor.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\nunit.framework.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\voelkerc2138\Documents\local repo\Dodgeball-Day\Dodgeball-Day\obj\Debug\Assembly-CSharp.pdb
