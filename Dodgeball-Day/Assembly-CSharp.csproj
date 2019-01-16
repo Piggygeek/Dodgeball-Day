@@ -53,6 +53,7 @@
      <Compile Include="Assets\Scripts\MouseMovement.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
+     <Compile Include="Assets\Scripts\target.cs" />
      <Compile Include="Assets\Seamless Texture\Demo Scene\TextureChanger.cs" />
      <Compile Include="Assets\Seamless Texture\Demo Scene\rotateObject.cs" />
      <Compile Include="Assets\Seamless Texture\Demo Scene\severalPositions.cs" />
