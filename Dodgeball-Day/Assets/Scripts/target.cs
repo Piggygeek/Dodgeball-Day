@@ -12,6 +12,9 @@ public class target : MonoBehaviour {
 	public float fireRate = 2f;
 	private float fireCountdown;
 
+	public Transform EnemyShoot;
+	public GameObject EdodgeBallPref;
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -53,6 +56,7 @@ public class target : MonoBehaviour {
 		Vector3 rotation = lookRotation.eulerAngles;
 		partToRotate.rotation = Quaternion.Euler (0f, rotation.y, 0f);
 
+
 		if (fireCountdown <= 0f) 
 		{
 			Shoot ();
@@ -73,6 +77,9 @@ public class target : MonoBehaviour {
 	void Shoot ()
 
 	{
-		Debug.Log ("Shoot!");
+		GameObject BulletGo = (GameObject) Instantiate(EdodgeBallPref, EnemyShoot.position, EnemyShoot.rotation);
+		Edodge EdodgeBall = BulletGo.GetComponent<Edodge> ();
+
+
 	}
 }
