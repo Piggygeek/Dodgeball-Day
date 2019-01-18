@@ -110,7 +110,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 95
+  controlID: 9
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -179,8 +179,8 @@ MonoBehaviour:
     y: 486
     width: 884
     height: 461
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 96
+  controlID: 70
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -228,8 +228,8 @@ MonoBehaviour:
     y: 0
     width: 469
     height: 559
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -278,8 +278,8 @@ MonoBehaviour:
     y: 0
     width: 567
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -394,9 +394,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.2651215, y: -13.5128975, z: -0.7017002}
+    m_Target: {x: 5.056456, y: -5.2493677, z: -13.572395}
     speed: 2
-    m_Value: {x: 3.2651215, y: -13.5128975, z: -0.7017002}
+    m_Value: {x: 5.056456, y: -5.2493677, z: -13.572395}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -419,13 +419,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.15206382, y: 0.8450349, z: -0.32242262, w: 0.3985428}
+    m_Target: {x: 0.08051107, y: 0.91022885, z: -0.21120492, w: 0.34697813}
     speed: 2
-    m_Value: {x: 0.15206382, y: 0.8450349, z: -0.32242262, w: 0.3985428}
+    m_Value: {x: 0.08051108, y: 0.9102289, z: -0.21120493, w: 0.34697816}
   m_Size:
-    m_Target: 61.55848
+    m_Target: 19.935871
     speed: 2
-    m_Value: 61.55848
+    m_Value: 19.935871
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -490,9 +490,9 @@ MonoBehaviour:
     height: 538
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f643fcff
-    m_LastClickedID: 0
-    m_ExpandedIDs: 08ecffff00000000fc2c0000182d0000
+    m_SelectedIDs: 96f7ffff
+    m_LastClickedID: -2154
+    m_ExpandedIDs: 96f7ffffb6f7ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,19 +552,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Objects
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Objects
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\lenahanr4827\Documents\local repo\Dodgeball-Day\Dodgeball-Day
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 082c0000
-    m_LastClickedID: 11272
-    m_ExpandedIDs: 00000000ee2a0000622b0000742b0000002c0000582c0000762c0000742d000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 2}
+    m_SelectedIDs: c2270000
+    m_LastClickedID: 10178
+    m_ExpandedIDs: 00000000c4260000502700007427000032280000a8280000b4280000ec280000562a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,7 +592,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ee2a0000622b0000742b0000002c0000582c0000762c0000742d0000
+    m_ExpandedIDs: 00000000c4260000502700007427000032280000b4280000ec280000562a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
