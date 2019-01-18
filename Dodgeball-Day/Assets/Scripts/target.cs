@@ -12,6 +12,9 @@ public class target : MonoBehaviour {
 	public float fireRate = 2f;
 	private float fireCountdown;
 
+	public Transform EnemyShoot;
+	public GameObject EdodgeBallPref;
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -73,6 +76,9 @@ public class target : MonoBehaviour {
 	void Shoot ()
 
 	{
-		Debug.Log ("Shoot!");
+		GameObject BulletGo = (GameObject) Instantiate(EdodgeBallPref, EnemyShoot.position, EnemyShoot.rotation);
+		Edodge EdodgeBall = BulletGo.GetComponent<Edodge> ();
+
+
 	}
 }
