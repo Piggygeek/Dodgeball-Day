@@ -25,5 +25,10 @@ public class BallLife : MonoBehaviour {
 		{
 			gameObject.SetActive (false);
 		}
+
+		if (other.gameObject.CompareTag ( "Enemy"))
+		{
+			gameObject.SetActive (false);
+		}
 	}
 }
